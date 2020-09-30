@@ -1,16 +1,23 @@
 library(ggplot2)
 
 #DataFrame import
-df1 <- read.table("Data/DATA_SET_REFERENCE_3.csv",
+df1 <- read.table("DATA_SET_REFERENCE_3.csv",
                         sep=",",header=TRUE,row.names = 1)
 colnames(df1)
 
 
 plot(df1$Sugar_Consumption,df1$Exercise)
+plot(df1$LDL_levels,df1$Sugar_Consumption)
+
 plot(df1$LDL_levels,df1$Exercise)
+ggplot(df1, aes(x=LDL_levels, y=Exercise)) + geom_point()
+
+ggplot(df1,aes(x=Planet,y=LDL_levels, group=Planet)) + geom_boxplot() 
+ggplot(df1,aes(x=Planet,y=LDL_levels, group=Planet)) + geom_boxplot(alpha=.25) 
+ggplot(df1,aes(x=Planet,y=LDL_levels, group=Planet))+ geom_jitter() + geom_boxplot(alpha=.25) 
 
 #Check Correlation
-plot(df1$LDL_levels,df1$Sugar_Consumption)
+
 cor.test(df1$LDL_levels,df1$Exercise)
 
 cor1=cor.test(df1$LDL_levels,df1$Exercise)
