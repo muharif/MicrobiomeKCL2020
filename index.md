@@ -28,8 +28,13 @@ Here you can find all the materials for the lecture and workshops.
 
 ### Important Links
 [MobaXterm](https://mobaxterm.mobatek.net/)
+
 [Putty](https://www.putty.org/)
+
 [FileZilla](https://filezilla-project.org/download.php?type=client)
+
 [Rosalind Help Page](https://user-wiki.rosalind.kcl.ac.uk/doku.php)
+
 [Generate SSH Key (Windows 10)](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
+
 [Generate SSH Key (MacOS)](https://secure.vexxhost.com/billing/index.php/knowledgebase/171/How-can-I-generate-SSH-keys-on-Mac-OS-X.html)
