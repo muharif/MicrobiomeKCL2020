@@ -1,0 +1,6 @@
+list vs tuple
+local vs global variable
+pickle
+negative indexes
+
+Running for weeks, do you save it? list or tuple or pickle?
