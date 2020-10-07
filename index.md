@@ -24,7 +24,7 @@ Here you can find all the materials for the lecture and workshops.
 | Description| Date | Time| Files|
 |:-|:-|:-|:-|
 | **7NNNMHD2: Introduction to Linux**| 06/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux.pptx)|
-| **7NNNMHD2: Introduction to Linux**| 07/10/2020| 12:00-17:00 | Coming Soon!|
+| **7NNNMHD2: Introduction to Linux**| 07/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux_day2.pptx)|
 
 ### Important Links
 [WEbminal](https://www.webminal.org/)
