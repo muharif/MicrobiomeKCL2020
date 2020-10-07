@@ -39,5 +39,5 @@ Here you can find all the materials for the lecture and workshops.
 
 [FileZilla](https://filezilla-project.org/download.php?type=client)
 
-[Rosalind Help Page](https://user-wiki.rosalind.kcl.ac.uk/doku.php)
+[Rosalind Help Page](https://rosalind.kcl.ac.uk/)
 
