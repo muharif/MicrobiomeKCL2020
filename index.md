@@ -26,7 +26,7 @@ Here you can find all the materials for the lecture and workshops.
 | **7NNNMHD2: Introduction to Linux**| 06/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux.pptx)|
 | **7NNNMHD2: Introduction to Linux**| 07/10/2020| 12:00-17:00 | [Slide](https://github.com/muharif/MicrobiomeKCL2020/raw/master/IntroToLinux_Day2.pptx)|
 
-## 7NNNMHD2: Introduction to Linux
+## 7NNNMHD2: Statistical Analysis
 
 ### Course Materials
 Here you can find all the materials from my part.
