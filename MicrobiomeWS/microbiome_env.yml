@@ -1,15 +1,7 @@
-name: microbiome
 channels:
   - defaults
   - bioconda
   - conda-forge
 dependencies:
-  - python=2.7
-  - bowtie
-  - numpy
-  - pandas
-  - biopython
-  - scipy
-  - matplotlib
-  - biom-format
-  - metaphlan2=2.8
+  - python=3.7
+  - metaphlan
